@@ -1,0 +1,14 @@
+{
+      "require": {
+
+            "php": ">=5.5.9",
+
+            "cocur/slugify": ">=2.3",
+
+            "nesbot/carbon": "*",
+
+            "ext-mysqli": "*",
+
+            "ext-fileinfo": "*"
+      }
+}
